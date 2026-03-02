@@ -1,15 +1,10 @@
-# This is Girma Tesfaye  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFDD00&center=true&width=600&lines=⭐ +Building.+Learning.+Shipping.+Repeating.;💻+Web+%26+App+Developer" alt="Typing Animation" />
-</p> 
----
+# 👋 This is Girma Tesfaye
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girma-tesfaye-815011343/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@girma_thoughts) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GloryGirma)
-
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFDD00&center=true&width=600&lines=⭐+Building.+Learning.+Shipping.+Repeating.;💻+Web+%26+App+Developer" alt="Typing Animation" />
+</p>
 
 ## 💻 Tech Stack
 
