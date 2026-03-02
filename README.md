@@ -1,6 +1,5 @@
-<p align="center">
 ##This is Girma Tesfaye
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFDD00&center=true&width=600&lines=⭐+Building.+Learning.+Shipping.+Repeating.;💻+Web+%26+App+Developer" alt="Typing Animation" />
