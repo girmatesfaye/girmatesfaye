@@ -1,6 +1,7 @@
-# 👋 This is Girma Tesfaye  
+# This is Girma Tesfaye  
 <p align="center">
-⭐ Building. Learning. Shipping. Repeating.
+ Web & App Developer
+ Building. Learning. Shipping. Repeating.  
 </p>
 
 ---
