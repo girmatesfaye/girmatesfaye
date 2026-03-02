@@ -1,6 +1,7 @@
-# This is Girma Tesfaye  
+  
 <p align="center">
- Web & App Developer
+ # This is Girma Tesfaye
+<p> Web & App Develope</p>
  Building. Learning. Shipping. Repeating.  
 </p>
 
