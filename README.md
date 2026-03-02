@@ -1,12 +1,7 @@
 # 👋 This is Girma Tesfaye  
-### 🎓 Information System Student at Hawassa University  
-### 🚀 Building Modern Web & Mobile Applications  
-
 <p align="center">
 ⭐ Building. Learning. Shipping. Repeating.
 </p>
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girma-tesfaye-815011343/) 
