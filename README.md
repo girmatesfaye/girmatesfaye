@@ -1,6 +1,5 @@
 <p align="center">
-# This is Girma Tesfaye
-  <p>Student at Hawassa University</p>
+##This is Girma Tesfaye
 </p>
 
 <p align="center">
